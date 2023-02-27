@@ -1,16 +1,16 @@
 .wrapper {
-    background-color: #dffbee;
+    background-color: #F4E1FA;
   }
   
   header {
-    background-color: #487a64;
+    background-color: #A279AD;
     padding: 25px;
     text-align: center;
     color: whitesmoke;
   }
   
   nav {
-    background-color: #dffbee;
+    background-color: #F4E1FA;
     margin: 10px;
     padding-bottom: 25px;
     border-bottom: 1px solid black;
@@ -33,22 +33,22 @@
   
   /* mouse over link */
   a:hover {
-    color: #93facb;
-    background-color: hotpink;
+    color: #FFBF99;
+    background-color: #99FFFF;
     padding: 2px;
   }
   
   /* selected link */
   a:active {
-    color: hotpink;
+    color: #99FFFF;
   }
   
   main {
-    background-color: #dffbee;
+    background-color: #F4E1FA;
   }
   
   footer {
-    background-color: #487a64;
+    background-color: #A279AD;
     padding: 25px;
     text-align: center;
     color: whitesmoke;
@@ -62,7 +62,7 @@
   }
   
   th {
-    background-color: #487a64;
+    background-color: #A279AD;
     color: white;
   }
   
